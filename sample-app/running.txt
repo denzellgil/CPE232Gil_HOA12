@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE                  COMMAND                  CREATED         STATUS                    PORTS                                   NAMES
+4b2f92c5eae6   sampleapp              "/bin/sh -c 'python3…"   2 minutes ago   Created                                                           samplerunning
+1448d0ce6513   lltv/apache-test:1.1   "apachectl -DFOREGRO…"   7 days ago      Exited (255) 6 days ago   0.0.0.0:8080->80/tcp, :::8080->80/tcp   vibrant_yalow
+a5e9e52b7cc2   ubuntu                 "bash"                   7 days ago      Exited (255) 6 days ago                                           boring_jackson
